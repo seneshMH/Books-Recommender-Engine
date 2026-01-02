@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name = "Books-Recommender-Engine"
+project_name = "Books_Recommender_Engine"
 
 
 list_of_files = [
